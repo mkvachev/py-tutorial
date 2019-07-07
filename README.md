@@ -1,2 +1,39 @@
-# py-tutorial
-Python lessons with theory, practice and exercises. Numpy, scipy, pandas, jupyter notebook, etc.
+# Quick Python Tutorial
+
+Этот проект содержит мои заметки по теоретической и практической части применения различных библиотек Python - numpy , scipy, pandas, matplotlib, seaborn etc. Основная информация - перевод статей, компиляция материалов из достоверных источников и официальной документации по тем или иным модулям.  
+Большая часть обучающего материала для наглядного и интерактивного представления реализована с использованием **Jupyter Notebook**.  
+
+Проект будет постепенно наполняться новыми материалами по инициативе автора (то есть меня).  
+
+### Общая информация 
+
+| **Title**         | Python Examples     |
+| -- | -- |
+| **Author**        | Alexander Kapitanov |
+| **Contact**       | sallador@bk.ru      |
+| **Release Date**  | 15 May 2019         |
+| **License**       | GNU GPL 3.0         |
+
+### Список каталогов 
+- **numpy**:
+   * numpy_basic - базовая информация по numpy: работа с векторами и массивами.
+   * numpy_view_copy - особенности присваивания, глубокого копирования, работа со срезами, отображение (поверхностная копия).
+   * numpy_vectors - особенности векторизованного вычисления, агрегирующие и кумулятивные функции.
+   * numpy_broadcasting - набор правил при работе с массивами разных размерностей.
+
+- **pandas**:
+   * pandas_basic - базовая информация: *Series* и *DataFrame* - основные объекты для работы с библиотекой.
+   * pandas_sql - сравнение pandas и SQL на примерах основных запросов.
+
+
+### Link 
+  * https://habr.com/users/capitanov/  
+  
+### Author: 
+  * Kapitanov Alexander  
+  
+### Release: 
+  * 2019/05/15.  
+
+### License: 
+  * GNU GPL 3.0.  
